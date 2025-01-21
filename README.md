@@ -1,2 +1,1 @@
-# Hackat
-print("hello world")
+# Hackathon
